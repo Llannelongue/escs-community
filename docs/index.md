@@ -9,7 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.6"
   overlay_image: /assets/images/nature_2.jpg
-excerpt: "This is still a work in progress! But at least for now, you can find below links to the main resources so far for the ESCS Community."
+excerpt: "This is still a work in progress! But you can already find below links to the main resources so far for the ESCS Community."
 
 
 feature_row1:
