@@ -21,21 +21,15 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row2:
-  - title: The newsletter
-    excerpt: The easiest way to be kept updated on what is going on in the ESCS community.
+  - title: Sign up to the newsletter
+    excerpt: The easiest way to be kept updated on what is going on in the ESCS community. We send out a monthly digest of the latest news and developments in the sustainable computing space.
     image_path: /assets/images/image_email.png
     url: "https://zcmp.eu/oRye"
     btn_label: "Subscribe"
     btn_class: "btn--primary"
 
-feature_row3:
-  - title: Regular virtual meet-ups
-    excerpt: We are working on this, sign up to the mailing list to hear about our progress!  
-    image_path: /assets/images/image_meetings.png
 ---
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row1" type="right" %}
-
-{% include feature_row id="feature_row3" type="left" %}
