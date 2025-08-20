@@ -22,11 +22,13 @@ feature_row1:
 
 feature_row2:
   - title: Sign up to the newsletter
-    excerpt: The easiest way to be kept updated on what is going on in the ESCS community. We send out a monthly digest of the latest news and developments in the sustainable computing space.
+    excerpt: >
+      The easiest way to be kept updated on what is going on in the ESCS community.
+      We send out a monthly digest of the latest news and developments in the sustainable computing space.
+      <br><br>
+      <a href="https://zcmp.eu/oRye" class="btn btn--primary" style="margin-right: 10px;">Subscribe</a>
+      <a href="https://escs-community.org/newsletters" class="btn btn--primary" style="background-color: #6c757d; border-color: #6c757d;">See archive</a>
     image_path: /assets/images/image_email.png
-    url: "https://zcmp.eu/oRye"
-    btn_label: "Subscribe"
-    btn_class: "btn--primary"
 
 ---
 
