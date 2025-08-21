@@ -1,9 +1,10 @@
 ---
 title: July 2025 Newsletter
 date: 2025-08-01
+categories: newsletter
+permalink: /newsletters/july-2025/
 layout: single
 ---
-We cover news and resources, jobs and funding opportunities, and Q&A discussions from the ESCS Forum.
 
 <div style="text-align: center;">
   <img src="/assets/images/shutterstock_2187536721_reduced.jpg" 

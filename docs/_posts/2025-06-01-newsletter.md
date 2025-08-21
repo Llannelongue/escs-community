@@ -1,9 +1,10 @@
 ---
 title: June 2025 Newsletter
 date: 2025-07-03
+categories: newsletter
+permalink: /newsletters/june-2025/
 layout: single
 ---
-The first monthly digest.
 
 <div style="text-align: center;">
   <img src="/assets/images/shutterstock_2187536721_reduced.jpg" 
