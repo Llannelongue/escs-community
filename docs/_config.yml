@@ -29,6 +29,13 @@ locale: "en-GB"
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+# Pages
+collections:
+  newsletters:
+    output: true
+    permalink: /:collection/:path/
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -96,9 +103,9 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
