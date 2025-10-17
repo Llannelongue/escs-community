@@ -1,8 +1,8 @@
 ---
-title: August 2025 Newsletter
-date: 2025-09-05
+title: September 2025 Newsletter
+date: 2025-09-10
 categories: newsletter
-permalink: /newsletters/august-2025/
+permalink: /newsletters/september-2025/
 layout: single
 ---
 
@@ -12,11 +12,11 @@ layout: single
   style="width: 100%; height: auto; margin-bottom: 16px;">
 </div>
 
-We’re back with the third release of the ESCS newsletter!
+As we enter into October, we’re back with the September release of the ESCS newsletter!
 
-Here is the monthly round up of the highlights from the forum last August, with news and resources to job openings and funding opportunities. As always, we invite you and your group to engage with the community by starting a new topic or chiming into one.
+Every month, we highlight news, tools, and resources in the intersection of environmental sustainability and computational science. From project announcements and policy developments to jobs and funding opportunities, we’re rounding up the latest that we think the community would find interesting and useful.
 
-If you have ideas, let us know how we can make things even more relevant and useful to what you’re interested in and looking for in the green computing space. We’re all ears! And if someone has forwarded this newsletter to you and you're interested to receive more, you can [subscribe here](https://zcmp.eu/oRye).
+To keep things relevant, we want to hear from you! We encourage you to engage with the community on the ESCS Forum, chime into a topic, or start your own thread. And of course, any suggestions to make our newsletter even better, let us know.
 
 <div style="text-align: center;">
 <!-- Green button -->
@@ -34,46 +34,51 @@ If you have ideas, let us know how we can make things even more relevant and use
 </a>
 </div>
 
+<br>
+If someone has forwarded this newsletter to you and you are interested to receive more, you can [subscribe here](https://zcmp.eu/oRye).
+
 <hr style="border: 1.5px solid #00BF63;">
 
-### August Recap of the ESCS Community Forum
+### September Recap of the ESCS Community Forum
 
 **News & Resources 📰**
 
-- **[Data centre developers in the UK are looking to connect new facilities to main gas pipelines.](https://forum.escs-community.org/t/data-centre-developers-in-the-uk-are-looking-to-connect-new-facilities-to-main-gas-pipelines/196)** Energy demand from upcoming data centres will be pushing carbon emissions upwards around the world, regardless of interest from big tech companies to curb CO2 emissions. For England in particular, developers are looking to power new data centres using the main gas pipelines to help supply power to new facilities quicker. The same thing is happening in the US and more than 85 other gas-powered facilities are in the works around the world. <br>
-    👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/data-centre-developers-in-the-uk-are-looking-to-connect-new-facilities-to-main-gas-pipelines/196)*
+- **[Measuring and awarding data centre sustainability.](https://forum.escs-community.org/t/measuring-and-awarding-data-centre-sustainability/198) Some more positive news on the data centre front:**
+  - [This article](https://dcnnmagazine.com/build/sustainability/why-data-centres-should-care-about-atmospheric-chemistry/) argues for more holistic data centre sustainability, accounting for other atmospheric emissions including chemicals and metals aside from CO2, as these can lead to secondary pollutants when interacting with one another.
+  - Did you know data centres can receive awards for sustainability? The Green Building Initiative (GBI) awarded its Green Globe for New Construction certification to tech infra company Aligned Data Centers for its latest data centre facility in Phoenix, USA, noting the facility’s strategies for reduced water usage, efficient cooling, 100% renewable power, and Adaptive Modular Infrastructure (AMI) which cuts down on scope 3 emissions ([link](https://dcnnmagazine.com/build/sustainability/aligneds-phoenix-data-centre-earns-three-green-globes/)). <br>
+    👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/measuring-and-awarding-data-centre-sustainability/198)*
 
-- **[Carbon-aware scheduling tools.](https://forum.escs-community.org/t/data-centre-developers-in-the-uk-are-looking-to-connect-new-facilities-to-main-gas-pipelines/196)** From the July issue of Communications of the ACM, the [Putting Carbon on the Clock](https://cacm.acm.org/news/putting-carbon-on-the-clock) article highlights carbon-aware scheduling tools (including open-source options) and how these have helped reduce the environmental impact of some universities in Sweden and the US. Has your team used carbon-aware scheduling tools? How was it impacted your work? <br>
-  👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/carbon-aware-scheduling-tools/187)*
+- **[From IEEE Spectrum: The Real Story on AI’s Water Use–and How to Tackle It > Cutting AI water use means smarter cooling and less thirsty grids.](https://forum.escs-community.org/t/from-ieee-spectrum-the-real-story-on-ai-s-water-use-and-how-to-tackle-it-cutting-ai-water-use-means-smarter-cooling-and-less-thirsty-grids/206)** [Article from University of California Associate Professor Shaolei Ren and Microsoft’s AI and Sustainability Lead Amy Luers](https://spectrum.ieee.org/ai-water-usage) discusses how regions with high concentration of data centres are actually impacted by water shortages, and what are some of the available solutions. <br>
+    👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/from-ieee-spectrum-the-real-story-on-ai-s-water-use-and-how-to-tackle-it-cutting-ai-water-use-means-smarter-cooling-and-less-thirsty-grids/206)*
 
-- **[Would energy hungry AI ever truly be green?](https://forum.escs-community.org/t/ft-series-on-whether-energy-hungry-ai-ever-truly-be-green/188)** The [second of the Financial Times’ three-part series](https://www.ft.com/content/9e0f8c64-9686-4551-8725-9cf268513b1e) on the environmental impact of AI highlights that almost a fifth of the gas power capacity in development in the US will be used to power data centres, more than 50% of data centre power will be from fossil fuels, and in Ireland, data centre demand for power took up more than a fifth of the whole country’s supply, with expectations to take up to a third in 2026. <br>
-  👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/ft-series-on-whether-energy-hungry-ai-ever-truly-be-green/188)*
+- **[What big tech data centre development looks like for countries like Mexico: “temporary” reliance on gas generators.](https://forum.escs-community.org/t/what-big-tech-data-centre-development-looks-like-for-countries-like-mexico-temporary-reliance-on-gas-generators/207)** Rest of the World article on how big tech is powering the rapid expansion of data centres around the world. Because many national power grids face or will face a deficit, companies are resorting to gas. And even if this was truly a temporary power source, we still see that nearly 60% of electricity used around the world comes from fossil fuels ([link](https://restofworld.org/2025/ai-energy-supply-data-centers/)). <br>
+    👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/what-big-tech-data-centre-development-looks-like-for-countries-like-mexico-temporary-reliance-on-gas-generators/207)*
 
-- **[Old power plants around Europe will be repurposed into data centres to support the AI boom.](https://forum.escs-community.org/t/old-power-plants-around-europe-will-be-repurposed-into-data-centres-to-support-the-ai-boom/191)** More on the AI boom, Reuters has reported that many old power plants across Europe are in plans to be converted into data centres by big tech companies like Microsoft and Amazon. While majority of the power supply should come from renewables, we can still expect the surge in the demand to push fossil fuel consumption in the region. <br>
-  👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/old-power-plants-around-europe-will-be-repurposed-into-data-centres-to-support-the-ai-boom/191)*
-
-**Jobs & Funding Opportunities 📣**
-
-- The [Lannelongue group](https://www.lannelongue-group.org/) at the University of Cambridge has an opening for a Research Associate/Research Assistant focused on the Sustainability of AI. This role is open to candidates with a PhD (or close to getting one). Deadline is on **16 September**. <br>
-  👉 *[Check the job listing](https://www.cam.ac.uk/jobs/research-associateresearch-assistant-in-sustainability-of-ai-fixed-term-rh46944)*
-
-  - The [UKRI Net-Zero Digital Research Infrastructure Vision and Expertise (NetDRIVE)](https://uknetdrive.org/) project have announced their most recent call - the second of three - which will fund projects up to £1M, while £200K is reserved for projects led by early career investigators. Sandpit applications close on the **10th of September**, while submissions will close on the **10th of October**. <br>
-  👉 *[Join the drop-in sessions in September and visit the page to learn more](https://uknetdrive.org/netdrive-calls/second-funding-call)*
+- **[Fastest supercomputer from Germany and new open-source LLM in Switzerland - is running on renewables enough?](https://forum.escs-community.org/t/fastest-supercomputer-from-germany-and-new-open-source-llm-in-switzerland-is-running-on-renewables-enough/213)** These two projects are both advertising that they run on 100% renewable energy - [Jupiter](https://www.nature.com/articles/d41586-025-02981-1) paying to only use renewables from Germany’s grid, and [Apertus](https://www.engadget.com/ai/switzerland-launches-its-own-open-source-ai-model-133051578.html) on Switzerland’s, making both models, on paper, carbon-neutral. But is that really enough to erase potential negative environmental impacts, given the scale of their power demand? <br>
+    👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/fastest-supercomputer-from-germany-and-new-open-source-llm-in-switzerland-is-running-on-renewables-enough/213)*
 
 **Q&A Discussions 💬**
 
-- We mentioned last month that we had a question from Laura Wilkinson about open access resources for green computing training. Thanks to Liz Ing-Simmons for chiming in and sharing links for the [Green Software Practitioner course](https://learn.greensoftware.foundation/) and a workshop on [Green HPC system use](https://epcced.github.io/2025-07-02_GreenHPC_UCL). Does your group have other resources to contribute to the thread? <br>
-  👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/green-computing-training/181)*
+- **[Environmentally Sustainable HeAlth REsearch (SHARE) is looking for researchers!](https://forum.escs-community.org/t/looking-for-researchers-to-support-our-research/205)** The SHARE project, led by Dr Gabby Samuel (King's College London) and Dr Federica Lucivero (University of Oxford), are recruiting health researchers from the UK to be interviewed on environmental tools such as carbon accounting methods and accreditation systems. These will be 45-60 minute interviews, and participants will receive a £20 voucher as a token of appreciation. Check the [online form](https://forms.office.com/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVkCsYA_vCs1Oi2M2QJgqhG5UMFMyNkdMTkRBSVBQSkc5RVJNRk9RVkpGQi4u&route=shorturl) to learn more. <br>
+    👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/looking-for-researchers-to-support-our-research/205)*
 
-- For those working on Green DiSC, Dorottya Nagy has shared a slide that their lab group is using to introduce new starters to their sustainability accreditation schemes which they are involved with. Is this something your group or institution finds useful? <br>
-  👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/induction-material-for-green-computing/184)*
+- **[New material from members of the ESCS community on Green Computing induction material.](https://forum.escs-community.org/t/induction-material-for-green-computing/184/5)** Are you looking for educational resources to share with your team to get them involved in more sustainable computing practices? Check out these resources used by community members from EMBL and the EPCC ([link](https://forum.escs-community.org/t/induction-material-for-green-computing/184/5)) <br>
+    👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/induction-material-for-green-computing/184/7)*
+
+- **[Free Green HPC course for those in academe!](https://forum.escs-community.org/t/free-green-dri-training-22-oct-2025-university-of-birmingham/210)** Shared by Andy Turner on the forum, the University of Birmingham is hosting the next Green HPC course on 22 October 2025. No prior knowledge of environmental sustainability concepts required! <br>
+    👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/free-green-dri-training-22-oct-2025-university-of-birmingham/210)*
+
+- We had a question in the forum last year from Andrew Walker on what the per CU estimate of the CO2 cost of running calculations on ARCHER2 is. Thanks to Andy Turner for chiming into the discussion (20g CO2e per CU if you’re curious!) and sharing a [resource](https://docs.archer2.ac.uk/user-guide/energy/#emissions). <br>
+    👉 *[Join the discussion on the forum](https://forum.escs-community.org/t/carbon-intensity-estimate-per-cu-for-archer2/61/3)*
 
 ---
 
-### Share your questions, news, and resources on the forum 🗒️
+### Got a question about green computing? Or want to share a useful resource with others? Check out the ESCS Forum! 🗒️
 
-We love seeing new posts on the [ESCS Community Forum](https://forum.escs-community.org/categories). Whether your new to green computing and eager to learn more or have been working in this space for years, we’re glad to have you in our community. Ask a question, share knowledge, and connect with others! Our Community Manager, Anica, rounds up highlights every month and your post may get featured in the next release.
+We love seeing new members and posts on the [ESCS Community Forum](https://forum.escs-community.org/categories). Doesn’t matter if you’re new and want to learn more about sustainable compute, or are considered the “expert” in your team. We’re glad to have you in our community! You can ask questions and chime in other discussions. Our Community Manager, Anica, follows what goes on in the forum every week, so your post may get featured in the next newsletter! 🌱
+
+---
 
 🌱 ***What is this newsletter?*** *This aims to be a round up of interesting news and developments in the sustainable computing space. Whenever we come across an interesting news item or publication on the topic, we will post it on the forum so that everyone can jump in and discuss it. Of course anyone’s welcome to post as well! At the end of each month, we will send out this monthly digest of the articles shared and of the discussions that happened on the forum.*
 
-🌱 ***Who is behind the forum and this monthly digest?*** *This project is led by [Loïc Lannelongue](https://www.lannelongue-group.org/members/Loic-Lannelongue.html) at the University of Cambridge and supported by the Wellcome Trust (among others). [Anica Araneta](https://www.lannelongue-group.org/members/Anica-Araneta.html) is in charge of day-to-day community management. Any questions about that? Just [get in touch](contact@escs-community.org)!*
+🌱 ***Who is behind the forum and this monthly digest?*** *This project is led by [Loïc Lannelongue](https://www.lannelongue-group.org/members/Loic%20Lannelongue.html) at the University of Cambridge and supported by the Wellcome Trust (among others). [Anica Araneta](https://www.lannelongue-group.org/members/Anica%20Araneta.html) is in charge of day-to-day community management. Any questions about that? Just [get in touch](contact@escs-community.org)!*
